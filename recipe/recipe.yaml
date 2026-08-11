@@ -1,5 +1,5 @@
 context:
-  version: "0.22.1"
+  version: "0.23.3"
 
 package:
   name: zola
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/getzola/zola/archive/v${{ version }}.tar.gz
-  sha256: 0f59479e05bce79e8d5860dc7e807ea818986094469ed8bf0bb46588ade95982
+  sha256: 2028bb1608b9625f78634c75b62654583fa3214fadac7e5f448a6b59b68912ec
 
 build:
   number: 0
